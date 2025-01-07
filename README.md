@@ -34,16 +34,22 @@ Steps
 3. Conducted an nmap scan from Kali to Ubuntu and captured network traffic with Wireshark
    
 Ref 1: Identify IP Address
+
 ![image](https://github.com/user-attachments/assets/405754dc-7bcd-4c42-b3b9-dd58f92df093)
+
 -Retrieved IP address of Ubuntu to initialize attack from Kali
 
 Ref 2: Nmap Scan Execution in Kali & Resulted Network Traffic in Ubuntu
+
 ![image](https://github.com/user-attachments/assets/1c20388f-4c60-420e-be93-56681b8dd7b8)
 ![image](https://github.com/user-attachments/assets/bc748164-9325-4ecf-a95b-0065328d541c)
+
 -Pinged IP address of Ubuntu from Kali and launched Wireshark to display the captured network traffic after the attack.
 
 Ref 3: Network Diagram
+
 ![image](https://github.com/user-attachments/assets/4a98a2fc-aeb7-4573-8a5b-90e92425e1f0)
+
 -This shows a visual representation of the simulated attack from Kali to Ubuntu.
 
 
