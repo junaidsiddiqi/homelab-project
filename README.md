@@ -1,10 +1,10 @@
-Virtual Home Lab Setup
+**Virtual Home Lab Setup**
 
-Objective
+*Objective*
 
 This project involved building a virtual home lab to gain hands-on experience in network management, security analysis, and attack detection. The setup simulated realistic attack scenarios and explored tools for analyzing and managing network traffic. By setting up and using this lab, I developed a foundational understanding of cybersecurity principles and techniques.
 
-Skills Learned
+*Skills Learned*
 
 -Configuration and management of virtual environments.
 
@@ -16,7 +16,7 @@ Skills Learned
 
 -Improved problem-solving skills in cybersecurity contexts.
 
-Tools Used
+*Tools Used*
 
 -VirtualBox: Hosted and managed the virtual machines.
 
@@ -28,7 +28,7 @@ Tools Used
 
 -Nmap: Performed scans to simulate attacks.
 
-Steps 
+*Steps*
 1. Installed VirtualBox and VMs
 2. Created a host-only network for isolated communication between VMs
 3. Conducted an nmap scan from Kali to Ubuntu and captured network traffic with Wireshark
